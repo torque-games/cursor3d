@@ -1,0 +1,26 @@
+{
+  "name": "com.torque-games.cursor3d",
+  "version": "1.0.1",
+  "displayName": "Cursor 3D",
+  "description": "Utility to use mouse pointer more easily in 3D worlds, i.e. FPS games",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "dependencies": {
+    "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
+  },
+  "licensesUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "keywords": [
+    "cursor",
+    "3D",
+    "FPS",
+    "First person"
+  ],
+  "author": {
+    "name": "Torque Games",
+    "email": "torquegamesa@gmail.com",
+    "url": "https://github.com/torque-games/"
+  },
+  "type": "library"
+}
